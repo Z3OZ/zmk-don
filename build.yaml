@@ -10,5 +10,5 @@ include:
     shield: enki42_left
   - board: nice_nano_v2
     shield: enki42_right
-  - board: nordic_nrf52840_dongle_slicemk
+  - board: nrf52840dongle_nrf52840
     shield: enki42_dongle
